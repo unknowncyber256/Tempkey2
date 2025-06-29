@@ -26,5 +26,12 @@
     "password": "12345",
     "expiresAt": "2025-11-30",
     "allowOffline": false  
+  },
+  {
+    "id": "ed6ecefabfbd7af7",
+    "username": "Hostman",
+    "password": "09876",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
   }
 ]
