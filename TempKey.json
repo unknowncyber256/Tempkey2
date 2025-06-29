@@ -19,5 +19,12 @@
     "password": "team",
     "expiresAt": "2025-12-31",
     "allowOffline": false
+   },
+   {
+    "id": "93c0b1da615f54b7",
+    "username": "angel"
+    "password": "12345",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false  
   }
 ]
