@@ -12,5 +12,12 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
+  }, 
+   {
+    "id": "94dbb1d4754cceba",
+    "username": "ikmodz",
+    "password": "team",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
   }
 ]
