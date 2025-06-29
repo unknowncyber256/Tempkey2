@@ -1,31 +1,10 @@
 [
   {
-    "id": "4fb9138fdc5c5659",
-    "username": "cyber",
-    "password": "cyber256",
-    "expiresAt": "2025-12-31",
-    "allowOffline": false
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }, 
-   {
     "id": "94dbb1d4754cceba",
-    "username": "ikmodz",
-    "password": "team",
+    "username": "jovin",
+    "password": "jovin256",
     "expiresAt": "2025-12-31",
-    "allowOffline": false
-   },
-   {
-    "id": "93c0b1da615f54b7",
-    "username": "angel"
-    "password": "12345",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false  
+    "allowOffline": true
   },
   {
     "id": "ed6ecefabfbd7af7",
