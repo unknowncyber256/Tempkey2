@@ -40,5 +40,12 @@
     "password": "99999",
     "expiresAt": "2025-11-30",
     "allowOffline": false
+  },
+  {
+    "id": "e085066fb34f21d4",
+    "username": "assistant",
+    "password": "202020",
+    "expiresAt": "2025-7-7",
+    "allowOffline": false
   }
 ]
