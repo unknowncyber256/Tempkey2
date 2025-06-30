@@ -54,5 +54,12 @@
     "password": "tech",
     "expiresAt": "2025-7-7",
     "allowOffline": false
+  },
+  {
+    "id": "f4e32ffee2f1b235",
+    "username": "dev256",
+    "password": "99999",
+    "expiresAt": "2025-7-7",
+    "allowOffline": false
   }
 ]
