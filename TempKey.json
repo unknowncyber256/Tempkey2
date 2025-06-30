@@ -47,5 +47,12 @@
     "password": "202020",
     "expiresAt": "2025-7-7",
     "allowOffline": false
+  },
+  {
+    "id": "3064601928149292",
+    "username": "barnes",
+    "password": "tech",
+    "expiresAt": "2025-7-7",
+    "allowOffline": false
   }
 ]
