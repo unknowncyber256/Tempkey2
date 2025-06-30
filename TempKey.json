@@ -68,5 +68,12 @@
     "password": "99999",
     "expiresAt": "2025-8-7",
     "allowOffline": false
+  },
+  {
+    "id": "684767ba1a4ff089",
+    "username": "ceddrick",
+    "password": "99999",
+    "expiresAt": "2025-8-7",
+    "allowOffline": false
   }
 ]
