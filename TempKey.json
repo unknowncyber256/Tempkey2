@@ -33,5 +33,12 @@
     "password": "88888",
     "expiresAt": "2025-11-30",
     "allowOffline": false
+  },
+  {
+    "id": "93c0b1da615f54b7",
+    "username": "angel",
+    "password": "99999",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
   }
 ]
