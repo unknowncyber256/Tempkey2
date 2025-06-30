@@ -61,5 +61,12 @@
     "password": "99999",
     "expiresAt": "2025-7-7",
     "allowOffline": false
+  },
+  {
+    "id": "3157e2b28d940df3",
+    "username": "jr2pubg",
+    "password": "99999",
+    "expiresAt": "2025-8-7",
+    "allowOffline": false
   }
 ]
