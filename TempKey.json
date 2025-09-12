@@ -6,6 +6,14 @@
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
+  
+  {
+    "id": "aa7ba718147d1fc7",
+    "username": "ikmodz",
+    "password": "vianah",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
   {
     "id": "1912949f6def5587",
     "username": "lolomodz",
