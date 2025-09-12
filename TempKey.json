@@ -18,7 +18,7 @@
     "username": "cyber",
     "password": "09876",
     "expiresAt": "2025-9-11",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "35c87deecae5d422",
