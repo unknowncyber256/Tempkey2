@@ -14,6 +14,14 @@
     "expiresAt": "2025-12-31",
     "allowOffline": false
   },
+  
+  {
+    "id": "205296f69599850f",
+    "username": "dosh",
+    "password": "tech",
+    "expiresAt": "2026-12-31",
+    "allowOffline": false
+  },
   {
     "id": "1912949f6def5587",
     "username": "lolomodz",
