@@ -3,8 +3,8 @@
     "id": "35c87deecae5d422",
     "username": "jovin",
     "password": "jovin256",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
+    "expiresAt": "2026-12-31",
+    "allowOffline": false
   },
   {
     "id": "7cbb9de0fcb9f971",
