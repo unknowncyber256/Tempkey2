@@ -7,6 +7,13 @@
     "allowOffline": false
   },
   {
+    "id": "4fb9138fdc5c5659",
+    "username": "ikmodz",
+    "password": "09876",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false 
+  },
+  {
     "id": "a6aff9c5b3a91b94",
     "username": "ikmodz256",
     "password": "mackson2",
@@ -48,13 +55,6 @@
     "username": "Hostman",
     "password": "09876",
     "expiresAt": "2025-12-31",
-    "allowOffline": false
-  },
-  {
-    "id": "4fb9138fdc5c5659",
-    "username": "cyber",
-    "password": "09876",
-    "expiresAt": "2029-9-11",
     "allowOffline": false
   },
   {
