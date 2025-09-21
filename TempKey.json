@@ -10,8 +10,8 @@
     "id": "c24531df62f925de",
     "username": "NewTest",
     "password": "00000",
-    "expiresAt": "2026-12-31",
-    "allowOffline": false
+    "expiresAt": "2024-12-31",
+    "allowOffline": true
   },
   {
     "id": "4fb9138fdc5c5659",
