@@ -7,6 +7,13 @@
     "allowOffline": false
   },
   {
+    "id": "2433ea1c1fb6d5a3",
+    "username": "test",
+    "password": "ikmodz",
+    "expiresAt": "2026-12-31",
+    "allowOffline": false
+  },
+  {
     "id": "a6aff9c5b3a91b94",
     "username": "ikmodz256",
     "password": "mackson2",
