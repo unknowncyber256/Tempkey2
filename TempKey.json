@@ -6,6 +6,14 @@
     "expiresAt": "2026-12-31",
     "allowOffline": false
   },
+  
+  {
+    "id": "9fb64b2efda0fc1d",
+    "username": "test8",
+    "password": "ikmodz",
+    "expiresAt": "2026-12-31",
+    "allowOffline": false
+  },
   {
     "id": "2433ea1c1fb6d5a3",
     "username": "test",
