@@ -6,11 +6,17 @@
     "expiresAt": "2026-12-31",
     "allowOffline": false
   },
-  
   {
     "id": "60af5324ac0babf2",
     "username": "Client1",
     "password": "55555",
+    "expiresAt": "2026-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "2f042eb7f5276f91",
+    "username": "Client2",
+    "password": "99999",
     "expiresAt": "2026-12-31",
     "allowOffline": false
   },
