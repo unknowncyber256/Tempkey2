@@ -7,6 +7,13 @@
     "allowOffline": false
   },
   {
+    "id": "6eb5ceeef4849623",
+    "username": "55555",
+    "password": "55555",
+    "expiresAt": "2025-11-07",
+    "allowOffline": false
+  },
+  {
     "id": "60af5324ac0babf2",
     "username": "Client1",
     "password": "55555",
