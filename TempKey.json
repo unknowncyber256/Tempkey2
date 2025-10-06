@@ -8,6 +8,13 @@
   },
   
   {
+    "id": "2f042eb7f5276f91",
+    "username": "test00",
+    "password": "00000",
+    "expiresAt": "2026-12-31",
+    "allowOffline": false
+  },
+  {
     "id": "2b500a3709d01dbc",
     "username": "test8",
     "password": "00000",
